@@ -1,0 +1,33 @@
+.image{
+    border-radius: 50%;
+    width:35px;
+    height: 35px;
+}
+.image-1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border-width: 3px !important;
+    padding: 5px;
+}
+.btn-post{
+    top: 0;
+    right: 0;
+    bottom: 0;
+    background-color: transparent;
+    color: cadetblue;
+    font-weight: 500;
+}
+.btn-post:hover, .btn-post:focus{
+    background-color: cadetblue;
+    color: white;
+    font-weight: 500;
+}
+.side-profile{
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+}
+.side-profile-2{
+    font-size: 14px;
+}
